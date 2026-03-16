@@ -174,10 +174,3 @@ pip install scikit-surprise
 - Only the MovieLens small dataset is used
 
 ---
-
-# Author
-
-Divyansh Rawat  
-M25CSA009  
-MTech Artificial Intelligence  
-Indian Institute of Technology Jodhpur

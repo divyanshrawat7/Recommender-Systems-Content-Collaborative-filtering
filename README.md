@@ -8,6 +8,7 @@ The assignment was implemented in a **Jupyter Notebook** and includes multiple r
 ---
 
 # Project Structure
+---
 
 ├── recommender_system.ipynb  
 ├── report.pdf  

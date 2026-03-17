@@ -7,7 +7,7 @@ This project implements multiple recommender system techniques using the MovieLe
 ---
 
 ## Project Structure
-.
+
 ├── recommender_system.ipynb  
 ├── report.pdf  
 ├── README.md  

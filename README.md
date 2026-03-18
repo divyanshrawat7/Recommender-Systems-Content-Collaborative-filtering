@@ -13,10 +13,10 @@ This project implements multiple recommender system techniques using the MovieLe
 ├── movies.csv  
 ├── ratings.csv  
 ├── images    
-      ├── cbf_output.png    
-      ├── user_profile_output.png    
-      ├── cf_output.png    
-      ├── svd_output.png    
+      └── cbf_output.png    
+      └── user_profile_output.png    
+      └── cf_output.png    
+      └── svd_output.png    
       └── neural_network_output.png    
 
 ---

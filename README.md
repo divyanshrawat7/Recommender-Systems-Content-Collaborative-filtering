@@ -7,12 +7,12 @@ This project implements multiple recommender system techniques using the MovieLe
 ---
 
 ## Project Structure
-.
+
 ├── recommender_system.ipynb    
 ├── README.md  
 ├── movies.csv  
 ├── ratings.csv  
-└── images  
+├── images  
     ├── cbf_output.png  
     ├── user_profile_output.png  
     ├── cf_output.png  

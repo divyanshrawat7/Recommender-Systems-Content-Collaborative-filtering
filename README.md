@@ -145,9 +145,3 @@ Ensure CSV files are in same directory or upload them properly.
 - CF predictions are consistent
 
 ---
-
-## Author
-Divyansh Rawat  
-M25CSA009  
-MTech AI  
-IIT Jodhpur
